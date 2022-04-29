@@ -23,7 +23,7 @@ My latest Projekt: [Sign-up Form](https://github.com/TomSoerr/odin-admin-dashboa
 - [Etch-a-Sketch](https://github.com/TomSoerr/odin-etch-a-sketch)
 - [Calculator](https://github.com/TomSoerr/odin-calculator)
 - [Sign-up Form](https://github.com/TomSoerr/odin-sign-up-form)
-- [Sign-up Form](https://github.com/TomSoerr/odin-admin-dashboard)
+- [Admin Dashboard](https://github.com/TomSoerr/odin-admin-dashboard)
 
 ## From freeCodeCamp
 - [freeCodeCamp Projects](https://github.com/TomSoerr/freeCodeCamp-Projects)
