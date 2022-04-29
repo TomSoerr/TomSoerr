@@ -4,9 +4,9 @@ I'm interested in Cyber Security and Pen-Testing. I'm currently learning Web-Dev
 
 
 ## Latest Project
-My latest Projekt: [Sign-up Form](https://github.com/TomSoerr/odin-sign-up-form)
+My latest Projekt: [Sign-up Form](https://github.com/TomSoerr/odin-admin-dashboard)
 
-![](https://github.com/TomSoerr/odin-sign-up-form/blob/main/media/prev.gif)
+![](https://github.com/TomSoerr/odin-admin-dashboard/blob/main/media/prev.gif)
 
 ## Languages and Tools
 <div>
@@ -23,6 +23,7 @@ My latest Projekt: [Sign-up Form](https://github.com/TomSoerr/odin-sign-up-form)
 - [Etch-a-Sketch](https://github.com/TomSoerr/odin-etch-a-sketch)
 - [Calculator](https://github.com/TomSoerr/odin-calculator)
 - [Sign-up Form](https://github.com/TomSoerr/odin-sign-up-form)
+- [Sign-up Form](https://github.com/TomSoerr/odin-admin-dashboard)
 
 ## From freeCodeCamp
 - [freeCodeCamp Projects](https://github.com/TomSoerr/freeCodeCamp-Projects)
