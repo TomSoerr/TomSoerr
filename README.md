@@ -4,20 +4,24 @@ I'm interested in Cyber Security and Pen-Testing. I'm currently learning Web-Dev
 
 
 ## Latest Project
-My latest Projekt: [Library](https://github.com/TomSoerr/odin-library)
+My latest Projekt: [Restaurant Page](https://github.com/TomSoerr/odin-restaurant-page)
 
-![](https://github.com/TomSoerr/odin-library/blob/main/media/prev.gif)
+![](https://github.com/TomSoerr/odin-restaurant-page/blob/00a9c377eeb9938e6ee2f6d78653b2767957b0aa/media/prev.gif)
 
 ## Languages and Tools
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python 3" alt="Python 3" width="40" heigt="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" heigt="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python 3" alt="Python 3" width="40" heigt="40">&nbsp;
 </div>
 
 ## Projects from The Odin Project
 (newest first)
+- [Restaurant Page](https://github.com/TomSoerr/odin-restaurant-page)
+- [Tic Tac Toe](https://github.com/TomSoerr/odin-tic-tac-toe)
 - [Library](https://github.com/TomSoerr/odin-library)
 - [Admin Dashboard](https://github.com/TomSoerr/odin-admin-dashboard)
 - [Sign-up Form](https://github.com/TomSoerr/odin-sign-up-form)
