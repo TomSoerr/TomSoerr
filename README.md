@@ -4,7 +4,7 @@ I'm interested in Cyber Security and Pen-Testing. I'm currently learning Web-Dev
 
 
 ## Latest Project
-My latest Projekt: [Restaurant Page](https://github.com/TomSoerr/odin-weather-app)
+My latest Projekt: [Weather App](https://github.com/TomSoerr/odin-weather-app)
 
 ![](https://github.com/TomSoerr/odin-weather-app/blob/15dd6724871e164deef63b9b59f3b5169524f13e/media/prev.gif)
 
