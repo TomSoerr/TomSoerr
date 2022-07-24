@@ -20,6 +20,7 @@ My latest Projekt: [Weather App](https://github.com/TomSoerr/odin-weather-app)
 
 ## Projects from The Odin Project
 (newest first)
+- [Testing Practice](https://github.com/TomSoerr/odin-testing-practice)
 - [Weather App](https://github.com/TomSoerr/odin-weather-app)
 - [Todo List](https://github.com/TomSoerr/odin-todo-list)
 - [Restaurant Page](https://github.com/TomSoerr/odin-restaurant-page)
