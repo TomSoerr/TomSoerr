@@ -1,12 +1,12 @@
 # Hallöchen, I'm Tom 👋
-I'm 18 years old and live in northern Germany. I started to learn programming in 2021, before that I raced mountainbike downhill cups. 
-I'm interested in Cyber Security and Pen-Testing. I'm currently learning Web-Development with the Odin Project.
+I'm 18 years old and live in Germany. I started to learn programming in 2021, before that I raced mountainbike downhill cups. 
+I'm interested in Cyber Security and have learnd the basics of Web-Development with the Odin Project. I'm currently going to a media design school.
 
 
 ## Latest Project
-My latest Projekt: [Weather App](https://github.com/TomSoerr/odin-weather-app)
+My latest Projekt: [Battleship](https://github.com/TomSoerr/odin-battleship)
 
-![](https://github.com/TomSoerr/odin-weather-app/blob/15dd6724871e164deef63b9b59f3b5169524f13e/media/prev.gif)
+![](https://github.com/TomSoerr/odin-battleship/blob/179921f72acc72c621ab49076619363d115e2be1/media/prev.gif)
 
 ## Languages and Tools
 <div>
@@ -20,6 +20,7 @@ My latest Projekt: [Weather App](https://github.com/TomSoerr/odin-weather-app)
 
 ## Projects from The Odin Project
 (newest first)
+- [Battleship](https://github.com/TomSoerr/odin-battleship)
 - [Testing Practice](https://github.com/TomSoerr/odin-testing-practice)
 - [Weather App](https://github.com/TomSoerr/odin-weather-app)
 - [Todo List](https://github.com/TomSoerr/odin-todo-list)
