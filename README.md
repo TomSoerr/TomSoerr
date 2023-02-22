@@ -4,7 +4,7 @@ I'm interested in Cyber Security and have learnd the basics of Web-Development w
 
 
 ## Latest Project
-My latest Projekt: [Portfolio](https://github.com/TomSoerr/portfolio)
+My latest Project: [Portfolio](https://github.com/TomSoerr/portfolio)
 
 ![](https://github.com/TomSoerr/portfolio/blob/1325099601846de37cb7c5df85632c9ecec3a6b2/media/prev.jpg)
 
