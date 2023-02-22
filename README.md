@@ -4,9 +4,9 @@ I'm interested in Cyber Security and have learnd the basics of Web-Development w
 
 
 ## Latest Project
-My latest Projekt: [Battleship](https://github.com/TomSoerr/odin-battleship)
+My latest Projekt: [Portfolio](https://github.com/TomSoerr/portfolio)
 
-![](https://github.com/TomSoerr/odin-battleship/blob/179921f72acc72c621ab49076619363d115e2be1/media/prev.gif)
+![](https://github.com/TomSoerr/portfolio/blob/1325099601846de37cb7c5df85632c9ecec3a6b2/media/prev.jpg)
 
 ## Languages and Tools
 <div>
@@ -18,6 +18,7 @@ My latest Projekt: [Battleship](https://github.com/TomSoerr/odin-battleship)
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python 3" alt="Python 3" width="40" heigt="40">&nbsp;
 </div>
 
+# Projects
 ## Projects from The Odin Project
 (newest first)
 - [Battleship](https://github.com/TomSoerr/odin-battleship)
@@ -35,8 +36,13 @@ My latest Projekt: [Battleship](https://github.com/TomSoerr/odin-battleship)
 - [Landing Page](https://github.com/TomSoerr/odin-landing-page)
 - [Recipes](https://github.com/TomSoerr/odin-recipes)
 
+## BMK Projects
+- [Rebellinnen](https://github.com/TomSoerr/rebellinnen)
+- [Portfolio](https://github.com/TomSoerr/portfolio)
+
 ## Over stuff from The Odin Project
 - [Dynamic User Interface Interaction](https://github.com/TomSoerr/odin-dynamic-ui)
+- [Recursion](https://github.com/TomSoerr/odin-recursion)
 
 ## From freeCodeCamp
 - [freeCodeCamp Projects](https://github.com/TomSoerr/freeCodeCamp-Projects)
