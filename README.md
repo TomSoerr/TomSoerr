@@ -49,10 +49,11 @@ My [Portfolio](https://github.com/TomSoerr/portfolio)
 ## BMK Projects
 - [Lehrnfeld 5: MyGlobe](https://github.com/TomSoerr/LF-05)
 - [Lernfeld 4: Portfolio](https://github.com/TomSoerr/portfolio)
+- [Mondrian CSS Grid](https://github.com/TomSoerr/mondrian)
 - [Lernfeld 2: Rebellinnen](https://github.com/TomSoerr/rebellinnen)
 
 ## Over Projects
-- [Python warm-up](https://github.com/TomSoerr/ups)
+- [Python warm-up](https://github.com/TomSoerr/python-warm-up)
 - [Python Macro Recorder](https://github.com/TomSoerr/macro-recorder)
 
 ## Over stuff from The Odin Project
