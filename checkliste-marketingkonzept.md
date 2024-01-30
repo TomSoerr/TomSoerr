@@ -1,5 +1,7 @@
 [Neuste Version](https://github.com/TomSoerr/TomSoerr/edit/main/checkliste-marketingkonzept.md)
 
+Der Umfange sollte um die 10.000 Zeichen lang sein. (1/3 Analysen, 1/2 Gestaltungskonzept) 
+
 - [Konzept, Gestaltung und Umsetzung](#konzept-gestaltung-und-umsetzung)
   - [Analysen](#analysen)
     - [Einleitung](#einleitung)
