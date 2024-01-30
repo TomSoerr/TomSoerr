@@ -1,3 +1,5 @@
+[Neuste Version](https://github.com/TomSoerr/TomSoerr/edit/main/checkliste-marketingkonzept.md)
+
 - [Konzept, Gestaltung und Umsetzung](#konzept-gestaltung-und-umsetzung)
   - [Analysen](#analysen)
     - [Einleitung](#einleitung)
@@ -187,22 +189,25 @@
 
 > [!NOTE]
 > **Produktorientiert** Markt Betrachtung auf Grundlage der physischen Eigenschaften, wie z. B. der Inhaltsstoffe. <br>
-> Club Mate => koffeinhaltigen Getränk => Konkurrenz: Mio Mate, ChariTea
+> Club Mate => koffeinhaltigen Getränk => Konkurrenz: Mio Mate, ChariTea (gleiche Eigenschaften vom Produkt aus)
 
 > [!NOTE]
 > **Zielgruppenorientiert** Die produktorientierte Analyse reicht meistens nicht aus. Es sollte lieber auf die Hintergründe und die Zielgruppe geschaut werden. Aus Mate lassen sich weitere Konkurrenten erschließen. Warum wird Club Mate gekauft? <br>
-> Club Mate => Koffein => Konkurrenz: Energie Drink, Cola oder => Durst => Konkurrenz: Wasser, Saft
+> Club Mate => Koffein => Konkurrenz: Energie Drink, Cola oder => Durst => Konkurrenz: Wasser, Saft (wieso nimmt die Zielgruppe dieses Produkt)
 
 - [ ] Analyse relevanten Marktes (Umfeld- und Branchenanalyse)
 - [ ] Aus welchem Grund (Bedürfnis oder Situation) benutzt die Zielgruppe unser Produkt?
 - [ ] Wer verliert, wenn wir gewinnen?
+- [ ] Marktvolumen (Höhe und Entwicklung)
+- [ ] Marktführer
 
 #### Trend
 
 > [!NOTE]
 > Unter gesellschaftlichen Trends versteht man Entwicklungen oder Veränderungen von Werten, Einstellungen und Verhaltensweisen innerhalb der Gesamtbevölkerung oder größeren gesellschaftlichen Gruppen.
 
-- [ ] Auswirkung aktueller Entwicklungen auf das Unternehmen?
+- [ ] Auswirkung aktueller Entwicklungen auf das Unternehmen? Gesellschaftliche Faktoren.
+- [ ] Technische Faktoren? Inhaltsstoffe
 - [ ] Welche Auswirkungen hat die politische Situation auf das Unternehmen? (Gesetzesänderungen, Subventionen)
 - [ ] Analyse relevanten Trends (Umfeld- und Branchenanalyse)
 - [ ] Welche Chancen und Risiken ergeben sich für unser Produkt aus den gegenwärtigen Trends?
@@ -227,12 +232,15 @@
 - [ ] Welches Look & Feel / Welche Atmosphäre vermittelt die Seite? Wie wurde sie grafisch gestaltet (Bildsprache, Farbe usw.)?
 - [ ] Welchen Funktionsumfang hat die Website? Gibt es besondere Features?
 - [ ] Wie aktuell sind die Inhalte?
+- [ ] Welche Produkte / Dienstleistungen hat die Konkurrenz?
+- [ ] Umsatz der Konkurrenz?
 - [ ] Wie ist die Suchmaschinenplatzierung?
 - [ ] Was können die Konkurrenten besonders gut? Was sind ihre Schwächen?
 
 - [ ] Welche Marktstellung haben die Mitbewerber? Wer ist der Marktführer?
 - [ ] Was zeichnet die Produkte aus (z. B. Nutzen, Qualitätsversprechen, Verpackungsgrößen/-design, Preis, Absatzweg, Zielgruppe)?
 - [ ] Welche Werbemaßnahmen und -inhalte kommen zum Einsatz?
+- [ ] Welche Vor- und Nachteile ergeben sich daraus?
 - [ ] Welche Chancen und Risiken ergeben sich daraus für uns?
 
 ### SWAT-Analyse
