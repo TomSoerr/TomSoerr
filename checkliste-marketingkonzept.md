@@ -455,6 +455,7 @@
 - [ ] Welchen Aspekt der Marke/Firma reflektiert das Key Visual
 - [ ] Wo soll das Key-Visual zu finden sein
 - [ ] Wie hebt das Key Visual die Marke von der Konkurrenz ab.
+- [ ] Große "Deko"-Elemente (Key Visual) auf Mobile nur begrenzt einsetzen
 
 ### Styletile
 
@@ -473,12 +474,19 @@
 - [ ] Klare und überschaubare Struktur mit einer Hierarchie und Sektionen
 - [ ] Geh nicht zu sehr ins Detail
 - [ ] erstelle nur ein paar Musterseiten
-- [ ] Mobile Version
+- [ ] Mobile Version (9:16)
 - [ ] Desktop Version
+- [ ] Mobile: Klare Sections (inhaltlich Aufteilung nach sichtbarem Berich)
+- [ ] Mobile: Akkordion für längere Texte nutzen ("on demand" gestaltung)
+- [ ] Mobile: große Buttons und Navigationselemente
+- [ ] Mobile: einspaltiges Raster
+- [ ] Mobile: one screen, one task
+- [ ] Mobile: thumb zone beachten
 
 ### Navigation/Interaktivität
 
 - [ ] nicht mehr als 7 Menü punkte
+- [ ] Mobile Menü meist versteckt (Hamburger/Burger Menü > Fullscreen)
 
 ### Konzept
 
