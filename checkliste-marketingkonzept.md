@@ -93,6 +93,7 @@ Der Umfange sollte um die 10.000 Zeichen lang sein. (1/3 Analysen, 1/2 Gestaltun
 - [ ] Bedienung und Funktionalität
 - [ ] Produktdesign: Optik, Haptik und äußere Kennzeichen
 - [ ] Preisgestaltung und Profitabilität
+- [ ] Produktangebot
 
 #### Unternehmen
 
