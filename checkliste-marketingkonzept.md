@@ -13,6 +13,8 @@
 - Userstory
 
 Der Umfange sollte um die 10.000 Zeichen lang sein. (1/3 Analysen, 1/2 Gestaltungskonzept) 
+- 24.000 Abschlussarbeit
+- 40.000 Realkundenprojekt
 
 - [Konzept, Gestaltung und Umsetzung](#konzept-gestaltung-und-umsetzung)
   - [Analysen](#analysen)
