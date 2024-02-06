@@ -1,5 +1,17 @@
 [Neuste Version](https://github.com/TomSoerr/TomSoerr/edit/main/checkliste-marketingkonzept.md)
 
+# Musterkonzept
+- Fazit nach jedem Abschnitt
+- Quellenverzeichnis
+- Analysen sollten sich nicht überschneiden
+- Logoentwicklung
+- Entwicklung und Werdegang darstellen
+- Bildunterschrift
+- Stärken Schwächen der Konkurrenz
+- Persona als Steckbrief
+- Tonalität bei Main Idea
+- Userstory
+
 Der Umfange sollte um die 10.000 Zeichen lang sein. (1/3 Analysen, 1/2 Gestaltungskonzept) 
 
 - [Konzept, Gestaltung und Umsetzung](#konzept-gestaltung-und-umsetzung)
