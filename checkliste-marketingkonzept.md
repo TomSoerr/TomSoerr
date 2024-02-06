@@ -438,6 +438,8 @@ Der Umfange sollte um die 10.000 Zeichen lang sein. (1/3 Analysen, 1/2 Gestaltun
 - [ ] Welche Grundform passt am besten zum Firmenimage (Bedeutung und Semantik der Form)? Benötigt man eine Kombination aus mehreren Formen?
 - [ ] Ist die Form gut erkennbar und prägnant? Auch von Weitem und in der Verkleinerung klar erkennbar?
 - [ ] Ist das Logo klar lesbar?
+- [ ] Ist das Logo aussagekräftig (Tonalität, worum handelt es sich)?
+- [ ] Bezug zum Unternehmen?
 - [ ] Bleibt die vollständige Wirkung und Aussagekraft bei einer monochromen Reproduktion (Schwarz/Weiß) erhalten?
 - [ ] Bleibt die Lesbarkeit und vollständige Wirkung bei einer verkleinerten Reproduktion erhalten?
 - [ ] Grenzt das Logo das Unternehmen klar von den Mitbewerbern ab? Ist eine Unverwechselbarkeit gegeben? Wenn Ja, wie?
@@ -447,6 +449,7 @@ Der Umfange sollte um die 10.000 Zeichen lang sein. (1/3 Analysen, 1/2 Gestaltun
 - [ ] Lässt sich das Logo in allen Medien (Print, Web, Bürokommunikation, Außenwerbung, Fuhrpark, Werbemittel) umsetzen? Benötigst du mehrere Versionen für verschiedene Medien?
 - [ ] Warum ist das Logo prägnant und einzigartig?
 - [ ] Balance und Proportion
+- [ ] Muss in binär funktionieren?
 
 ---
 
