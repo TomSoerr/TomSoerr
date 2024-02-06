@@ -437,7 +437,7 @@ Der Umfange sollte um die 10.000 Zeichen lang sein. (1/3 Analysen, 1/2 Gestaltun
 - [ ] Welches Logo Prinzip passt am besten zu der Message des Logos (Lok-Prinzip, Schub-Prinzip, Crown-Prinzip, Insel-Prinzip)
 - [ ] Welche Grundform passt am besten zum Firmenimage (Bedeutung und Semantik der Form)? Benötigt man eine Kombination aus mehreren Formen?
 - [ ] Ist die Form gut erkennbar und prägnant? Auch von Weitem und in der Verkleinerung klar erkennbar?
-- [ ] Ist das Logo klar lesbar?
+- [ ] Ist das Logo klar lesbar? Schutzraum (padding)
 - [ ] Ist das Logo aussagekräftig (Tonalität, worum handelt es sich)?
 - [ ] Bezug zum Unternehmen?
 - [ ] Bleibt die vollständige Wirkung und Aussagekraft bei einer monochromen Reproduktion (Schwarz/Weiß) erhalten?
