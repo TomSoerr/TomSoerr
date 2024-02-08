@@ -10,7 +10,7 @@
 - Stärken Schwächen der Konkurrenz
 - Persona als Steckbrief
 - Tonalität bei Main Idea
-- Userstory
+- Userstory (versetzt sich in die Position | Als <Rolle> möchte ich <Funktionalität>, um <Nutzen> zu erreichen. Akzeptanzkriterien: ...) (muss nicht geschrieben werden)
 
 Der Umfange sollte um die 10.000 Zeichen lang sein. (1/3 Analysen, 1/2 Gestaltungskonzept) 
 - 24.000 Abschlussarbeit
