@@ -1,20 +1,10 @@
 [Neuste Version](https://github.com/TomSoerr/TomSoerr/edit/main/checkliste-marketingkonzept.md)
 
-# Musterkonzept
-- Fazit nach jedem Abschnitt
-- Quellenverzeichnis
-- Analysen sollten sich nicht überschneiden
-- Logoentwicklung
-- Entwicklung und Werdegang darstellen
-- Bildunterschrift
-- Stärken Schwächen der Konkurrenz
-- Persona als Steckbrief
-- Tonalität bei Main Idea
-- Userstory (versetzt sich in die Position | Als <Rolle> möchte ich <Funktionalität>, um <Nutzen> zu erreichen. Akzeptanzkriterien: ...) (muss nicht geschrieben werden)
-
-Der Umfange sollte um die 10.000 Zeichen lang sein. (1/3 Analysen, 1/2 Gestaltungskonzept) 
+Umfange der gezeigten Konzepte in der PO Stunde
 - 24.000 Abschlussarbeit
 - 40.000 Realkundenprojekt
+
+---
 
 - [Konzept, Gestaltung und Umsetzung](#konzept-gestaltung-und-umsetzung)
   - [Analysen](#analysen)
@@ -84,6 +74,9 @@ Der Umfange sollte um die 10.000 Zeichen lang sein. (1/3 Analysen, 1/2 Gestaltun
 
 > [!CAUTION]
 > Der Sprachstil ist sachlich und dem Auftraggeber entsprechend, vermeiden Sie umgangssprachliche Formulierungen. Das Konzept sollte knapp, präzise und klar formuliert sein. Schreiben Sie nicht in der „**Ich**-“ oder „**Wir**-“Form („Ich habe das gemacht, weil …“), sondern objektiv („Die Farbe hebt … hervor.“) Wichtig ist, dass Sie Ihre Website nicht nur beschreiben, sondern Ihre Entscheidungen nachvoll- ziehbar begründen. Achten Sie bei den Begründungen darauf, dass Sie nicht negativ argumentieren („Die Farben sind nicht zu grell“)! Überzeugen Sie den Kunden durch gute Argumente und zeigen Sie Begeisterung
+
+- [ ] Fazit nach jedem Abschnitt
+- [ ] Quellenverzeichnis
 
 ### Einleitung
 
@@ -201,6 +194,8 @@ Der Umfange sollte um die 10.000 Zeichen lang sein. (1/3 Analysen, 1/2 Gestaltun
 
 - [ ] Welche Merkmale kennzeichnen den typischen Verwender der Produktkategorie bzw. der Marke?
 - [ ] Welche Erwartungen an das Produkt oder Unternehmen
+- [ ] Als Steckbrief
+- Userstory (versetzt sich in die Position | Als <Rolle> möchte ich <Funktionalität>, um <Nutzen> zu erreichen. Akzeptanzkriterien: ...) (muss nicht geschrieben werden)
 
 #### Markt
 
@@ -363,7 +358,7 @@ Der Umfange sollte um die 10.000 Zeichen lang sein. (1/3 Analysen, 1/2 Gestaltun
 - [ ] Fasst die Analysen und Ziele zusammen
 - [ ] Keine neuen Adjektive
 - [ ] Begründete Adjektive zur Markenpersönlichkeit
-- [ ] Was ist der Grundton
+- [ ] Was ist der Grundton / die Tonalität
 - [ ] kommen Adjektive und Grundton durch.
 
 #### Look and Feel
@@ -464,6 +459,7 @@ Der Umfange sollte um die 10.000 Zeichen lang sein. (1/3 Analysen, 1/2 Gestaltun
 - [ ] Warum ist das Logo prägnant und einzigartig?
 - [ ] Balance und Proportion
 - [ ] Muss in binär funktionieren?
+- [ ] Entwicklungsprozess dargestellt?
 
 ---
 
