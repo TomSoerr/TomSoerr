@@ -13,7 +13,7 @@ I'm Tom, a web developer from Germany. Here, you will find all my projects since
 
 # Projects
 
-### Berufliche Schule für Medien und Kommunikation
+### Ausbildung Screen-Design
 - [Aye Aye](https://tomsoerr.github.io/Abschlusspruefung-der-Berufsfachschule-Screendesign-2024-BMK-HH/website/index.html#pw=AP-2024-AyeAye)
 - [Rauna Freyher](https://tomsoerr.github.io/lf08-rauna-freyher/website/index.html)
 - [MyGlobe](https://github.com/TomSoerr/LF-05)
