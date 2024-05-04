@@ -21,7 +21,6 @@ I'm Tom, a web developer from Germany. Here, you will find all my projects since
 
 ### Projects from The Odin Project
 - [Battleship](https://github.com/TomSoerr/odin-battleship)
-- [Testing Practice](https://github.com/TomSoerr/odin-testing-practice)
 - [Weather App](https://github.com/TomSoerr/odin-weather-app)
 - [Todo List](https://github.com/TomSoerr/odin-todo-list)
 - [Restaurant Page](https://github.com/TomSoerr/odin-restaurant-page)
