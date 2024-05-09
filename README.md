@@ -1,6 +1,6 @@
 # Moin Moin ⚓
 
-I'm Tom, a web developer from Germany. Here, you will find all my projects since I started learning programming in 2021. Check out my [Portfolio](https://tomsoerr.github.io/) for a fancier overview of the projects. If you want to connect with me, use [this form](https://tomsoerr.github.io/#/kontakt). My skills include:
+I'm Tom, a web developer from Germany. Here, you will find all my projects since I started learning programming in 2021. Check out my [Portfolio](https://tomsoerr.github.io/) for a fancier overview of the projects (the portfolio does not serve any business purposes and is for private use only). If you want to connect with me, use [this form](https://tomsoerr.github.io/#/kontakt). My skills include:
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
