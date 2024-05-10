@@ -15,7 +15,7 @@ I'm Tom. Here, you will find all my projects since I started learning programmin
 
 ### Ausbildung Screen-Design
 - [Portfolio 2](https://github.com/TomSoerr/portfoliov2)
-- [Aye Aye](https://tomsoerr.github.io/Abschlusspruefung-der-Berufsfachschule-Screendesign-2024-BMK-HH/website/index.html#pw=AP-2024-AyeAye)
+- [Aye Aye](#)
 - [Rauna Freyher](https://github.com/TomSoerr/lf08-rauna-freyher)
 - [MyGlobe](https://github.com/TomSoerr/LF-05)
 - [Portfolio](https://github.com/TomSoerr/portfolio)
