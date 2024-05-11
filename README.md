@@ -14,6 +14,7 @@ I'm Tom. Here, you will find all my projects since I started learning programmin
 # Projects
 
 ### Ausbildung Screen-Design
+
 - [Portfolio 2](https://github.com/TomSoerr/portfoliov2)
 - ~~Aye Aye~~
 - [Rauna Freyher](https://github.com/TomSoerr/lf08-rauna-freyher)
@@ -21,6 +22,7 @@ I'm Tom. Here, you will find all my projects since I started learning programmin
 - [Portfolio](https://github.com/TomSoerr/portfolio)
 
 ### Projects from The Odin Project
+
 - [Battleship](https://github.com/TomSoerr/odin-battleship)
 - [Weather App](https://github.com/TomSoerr/odin-weather-app)
 - [Todo List](https://github.com/TomSoerr/odin-todo-list)
@@ -36,13 +38,13 @@ I'm Tom. Here, you will find all my projects since I started learning programmin
 - [Recipes](https://github.com/TomSoerr/odin-recipes)
 
 ### Over Projects
+
 - [Python Macro Recorder](https://github.com/TomSoerr/macro-recorder)
 
 ### From freeCodeCamp
+
 - [freeCodeCamp Projects](https://github.com/TomSoerr/freeCodeCamp-Projects)
 
+### Links
 
-<!---
-TomSoerr/TomSoerr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- [Imprint](https://tomsoerr.github.io/#/impressum)
