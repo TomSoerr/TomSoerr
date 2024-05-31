@@ -16,7 +16,7 @@ I'm Tom. Here, you will find all my projects since I started learning programmin
 ### Ausbildung Screen-Design
 
 - [Portfolio 2](https://github.com/TomSoerr/portfoliov2)
-- ~~Aye Aye~~
+- [Aye Aye](https://tomsoerr.github.io/#/projekte/aye-aye)
 - [Rauna Freyher](https://github.com/TomSoerr/lf08-rauna-freyher)
 - [MyGlobe](https://github.com/TomSoerr/LF-05)
 - [Portfolio](https://github.com/TomSoerr/portfolio)
