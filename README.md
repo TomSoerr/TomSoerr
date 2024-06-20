@@ -1,6 +1,6 @@
 # Moin Moin ⚓
 
-I'm Tom. Here, you will find all my projects since I started learning programming in 2021. Check out my [Portfolio](https://tomsoerr.github.io/) for a fancier overview of the projects. If you want to connect with me, use [this form](https://tomsoerr.github.io/#/kontakt). (The portfolio does not serve any business purposes and is for private use only). My skills include:
+I'm Tom. Here, you will find all my projects since I started learning programming in 2021. Check out my [Portfolio](https://tomsoerr.github.io/) for a fancier overview of the projects. If you want to connect with me, use [this form](https://tomsoerr.github.io/#/kontakt). My skills include:
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -16,7 +16,7 @@ I'm Tom. Here, you will find all my projects since I started learning programmin
 ### Ausbildung Screen-Design
 
 - [Portfolio 2](https://github.com/TomSoerr/portfoliov2)
-- [Aye Aye](https://tomsoerr.github.io/#/projekte/aye-aye)
+- [Aye Aye](https://github.com/TomSoerr/Abschlusspruefung-der-Berufsfachschule-Screendesign-2024-BMK-HH)
 - [Rauna Freyher](https://github.com/TomSoerr/lf08-rauna-freyher)
 - [MyGlobe](https://github.com/TomSoerr/LF-05)
 - [Portfolio](https://github.com/TomSoerr/portfolio)
