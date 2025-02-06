@@ -11,6 +11,8 @@ I'm Tom. Here, you will find all my projects since I started learning programmin
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python 3" alt="Python 3" width="40" heigt="40">&nbsp;
 </div>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomSoerr&layout=compact)
+
 # Projects
 
 ### Ausbildung Screen-Design
@@ -50,3 +52,4 @@ I'm Tom. Here, you will find all my projects since I started learning programmin
 ### Links
 
 - [Imprint](https://tomsoerr.github.io/#/impressum)
+
